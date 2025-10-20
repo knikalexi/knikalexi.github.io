@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://knikalexi.github.io/files/KNikalexi_CV.pdf)
+[CV](http://knikalexi.github.io/files/KNikalexi_CV_201025.pdf)
