@@ -9,8 +9,7 @@ author_profile: true
 
 **Ports and Power** (2025)
 
-Can foreign state actors reshape the map of European trade? I investigate the impact of Chinese state-led port investments on the subnational trade network within Europe, leveraging the staggered acquisition of stakes in 20 European ports and using 1.6 million truck-level quarterly shipments across 338 NUTS2 regions (2011–2022). I employ a shift–share event-study framework and exploit pre-investment trade dependence on port regions and their network-mediated links to estimate exposure to investment shocks. I find that more exposed regions experience declines in both exports and imports and a contraction in the diversity of their trading partners.
-
+This paper studies how foreign ownership of maritime infrastructure reshapes inland trade networks. I combine hand-collected data on Chinese state-backed acquisitions of European ports with 1.5 million truck-level shipments linking 368 NUTS2 regions between 2011 and 2022. Using a continuous-treatment event study à la De Chaisemartin and D’Haultfoeuille (2024) that exploits the policy-driven and externally timed rollout of China’s Maritime Silk Road, I estimate effects relative to exposure: higher-exposed regions contract more than lower-exposed ones in the same years. A rise in exposure is associated with a 20–30 % relative decline in road-freight volumes and a 4–5 % relative increase in trade-partner concentration. The results point to a reconfiguration of trade corridors rather than a uniform collapse, consistent with a reallocation of containerized and re-export traffic within integrated logistics networks. This pattern reveals how ownership shocks propagate inland through Europe’s trade routes.
 <sub>*Presented at: 23rd Conference on Research in Economic Theory & Economics, LBS, LSE (forthcoming)*
 
 ---
