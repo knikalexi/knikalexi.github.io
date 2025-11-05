@@ -114,6 +114,8 @@ author:
   youtube          :
   wikipedia        :
 
+remote_theme: academicpages/academicpages
+
 
 # Reading Files
 include:
