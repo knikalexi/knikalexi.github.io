@@ -1,1 +1,29 @@
 
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+/* Choose your colors */
+:root {
+  --kn-accent: #1f6feb; /* links/buttons */
+  --kn-text: #9b2c2c;
+  --kn-muted: #555;
+  --kn-bg: #ffffff;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: var(--kn-text);
+  background-color: var(--kn-bg);
+  letter-spacing: 0.01em;
+}
+
+a {
+  color: var(--kn-accent);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
