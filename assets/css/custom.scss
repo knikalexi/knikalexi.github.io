@@ -1,14 +1,14 @@
-
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
 
-/* Choose your colors */
+/* ---- Base colors ---- */
 :root {
-  --kn-accent: #1f6feb; /* links/buttons */
-  --kn-text: #9b2c2c;
+  --kn-accent: #9b2c2c; /* burgundy links/buttons */
+  --kn-text: #111;      /* normal text */
   --kn-muted: #555;
   --kn-bg: #ffffff;
 }
 
+/* ---- Body text ---- */
 body {
   font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   color: var(--kn-text);
@@ -16,14 +16,42 @@ body {
   letter-spacing: 0.01em;
 }
 
-a {
-  color: var(--kn-accent);
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-
+/* ---- Headings ---- */
 h1, h2, h3 {
   letter-spacing: -0.01em;
 }
+
+/* ---- Links ---- */
+/* Page/post content links */
+.page__content a:not(.btn),
+a:not(.btn):not(.masthead__menu-item) {
+  color: var(--kn-accent) !important;
+  text-decoration: none;
+}
+.page__content a:hover:not(.btn),
+a:hover:not(.btn):not(.masthead__menu-item) {
+  color: #7f2222 !important;
+  text-decoration: underline;
+}
+.page__content a:visited:not(.btn) {
+  color: #6c1d1d !important;
+}
+
+/* Header/nav links (Minimal Mistakes theme) */
+.greedy-nav .visible-links a,
+.greedy-nav a,
+.masthead .site-title a {
+  color: var(--kn-accent) !important;
+}
+.greedy-nav .visible-links a:hover,
+.greedy-nav a:hover {
+  color: #7f2222 !important;
+}
+
+/* Footer “Follow” icons and links */
+.page__footer a { color: var(--kn-accent) !important; }
+.page__footer a:hover { color: #7f2222 !important; }
+
+/* Tint social SVG icons in footer */
+.page__footer .social-icons a svg { fill: var(--kn-accent) !important; }
+.page__footer .social-icons a:hover svg { fill: #7f2222 !important; }
