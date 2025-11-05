@@ -55,3 +55,35 @@ a:hover:not(.btn):not(.masthead__menu-item) {
 /* Tint social SVG icons in footer */
 .page__footer .social-icons a svg { fill: var(--kn-accent) !important; }
 .page__footer .social-icons a:hover svg { fill: #7f2222 !important; }
+
+/* Content links */
+.page__content a:not(.btn),
+a:not(.btn):not(.masthead__menu-item) {
+  color: #9b2c2c !important;
+  text-decoration: none;
+}
+.page__content a:hover:not(.btn),
+a:hover:not(.btn):not(.masthead__menu-item) {
+  color: #7f2222 !important;
+  text-decoration: underline;
+}
+.page__content a:visited:not(.btn) {
+  color: #6c1d1d !important;
+}
+
+/* Header/nav links */
+.greedy-nav .visible-links a,
+.greedy-nav a,
+.masthead .site-title a {
+  color: #9b2c2c !important;
+}
+.greedy-nav .visible-links a:hover,
+.greedy-nav a:hover {
+  color: #7f2222 !important;
+}
+
+/* Footer links & social icons */
+.page__footer a { color: #9b2c2c !important; }
+.page__footer a:hover { color: #7f2222 !important; }
+.page__footer .social-icons a svg { fill: #9b2c2c !important; }
+.page__footer .social-icons a:hover svg { fill: #7f2222 !important; }
