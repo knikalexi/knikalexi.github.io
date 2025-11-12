@@ -2,7 +2,6 @@
 locale                   : "en-US"
 title                    : "Katerina Nikalexi"
 title_separator          : "-"
-name                     : &name "Katerina Nikalexi"
 description              : &description "personal description"
 url                      : https://knikalexi.github.io
 baseurl                  : ""
