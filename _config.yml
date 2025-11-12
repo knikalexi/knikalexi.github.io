@@ -209,9 +209,9 @@ defaults:
       comments: true
 
 # Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+  #sass_dir: _sass
+ #style: compressed
 
 # Outputting
 permalink: /:categories/:title/
