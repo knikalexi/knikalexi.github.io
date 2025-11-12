@@ -114,7 +114,8 @@ author:
   youtube          :
   wikipedia        :
 
-remote_theme: academicpages/academicpages
+#remote_theme: academicpages/academicpages
+remote_theme: academicpages/academicpages.github.io@v0.8.4
 
 
 # Reading Files
