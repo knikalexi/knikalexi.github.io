@@ -114,8 +114,8 @@ author:
   youtube          :
   wikipedia        :
 
-#remote_theme: academicpages/academicpages
-remote_theme: academicpages/academicpages.github.io
+remote_theme: academicpages/academicpages
+#remote_theme: academicpages/academicpages.github.io
 
 
 # Reading Files
@@ -240,7 +240,14 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
