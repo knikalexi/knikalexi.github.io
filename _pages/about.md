@@ -21,8 +21,7 @@ This paper studies how foreign ownership of maritime infrastructure reshapes inl
 
 **Publications**:  
 
-de Groot, O., Hauptmeier, S., Holm-Hadulla, F., and Nikalexi, K. (2025). Monetary Policy and Regional
-Inequality. ECB Working Paper 2385. R&R on *The Economic Journal*.
+[de Groot, O., Hauptmeier, S., Holm-Hadulla, F., & Nikalexi, K. (2025). *Monetary Policy and Regional Inequality*. ECB Working Paper 2385. R&R on The Economic Journal.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788667)
 
-Fonseca, L., Nikalexi, K., and Papaioannou, E. (2023). The Globalization of Corporate Control. *Journal of
-International Economics*, Vol. 146.
+[ Fonseca, L., Nikalexi, K., & Papaioannou, E. (2023). *The Globalization of Corporate Control*. Journal of International Economics, 146. ](https://www.sciencedirect.com/science/article/pii/S0022199623000405)
+
