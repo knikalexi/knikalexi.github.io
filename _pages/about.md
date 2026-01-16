@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Economics at London Business School, advised by Professor Hélène Rey and expected to graduate in Spring 2026.  My research interests include **applied macroeconomics, international trade, monetary policy**, and **geoeconomics**.  
+I am a PhD candidate in Economics at London Business School, advised by Hélène Rey and expected to graduate in Spring 2026.  My research interests include **applied macroeconomics, international trade, monetary policy**, and **geoeconomics**.  
 
 [Download my CV]({{ "/files/KNikalexi_CV_121125.pdf" | relative_url }})
 
