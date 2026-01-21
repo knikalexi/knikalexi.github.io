@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://knikalexi.github.io/files/Katerina_Nikalexi_CV_0126.pdf)
 [CV]({{ "/files/Katerina_Nikalexi_CV_0126.pdf" | relative_url }})
