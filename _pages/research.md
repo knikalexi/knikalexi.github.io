@@ -15,7 +15,7 @@ This paper studies how foreign ownership of maritime infrastructure reshapes inl
 
 ---
 
-## Publications
+## Published / Under Review:
 
 [**Monetary Policy and Regional Inequality**](/files/MPRI.pdf),  
 with de Groot, Hauptmeier, Holm-Hadulla. ECB Working Paper 2385. R&R at *The Economic Journal*.  
