@@ -107,13 +107,12 @@ h1, h2, h3 {
 }
 
 .sidebar .author__avatar img {
-  width: 230px !important;
-  max-width: 230px !important;
-  height: 230px !important;
-  border-radius: 50%; /* round */
-  object-fit: cover;
+  width: 240px !important;   /* ⬅️ controls size */
+  height: 240px !important;  /* ⬅️ MUST match width for a perfect circle */
+  max-width: 240px !important;
+  border-radius: 50%;        /* ⬅️ makes it round */
+  object-fit: cover;         /* ⬅️ crops nicely */
   box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .sidebar .author__avatar img:hover {
