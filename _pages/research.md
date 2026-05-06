@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /research/
-author_profile: true
 ---
 
 **Job Market Paper:**
