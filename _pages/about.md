@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Economics at London Business School, advised by Hélène Rey and expected to graduate in Spring 2026.  My research interests include **applied macroeconomics, international trade, monetary policy**, and **geoeconomics**. I am a member of the 2026 [Next-Geo cohort](https://www.kielinstitut.de/institute/career/next-geo-program/).
+I am a PhD candidate in Economics at London Business School, advised by Hélène Rey and expected to graduate in Spring 2026.  My research interests include **applied macroeconomics, international trade, monetary policy**, and **geoeconomics**. I am a member of the 2026 [Next-Geo cohort](https://www.kielinstitut.de/institute/career/next-geo-program/) and a finalist for the 2026 Young Economist Prize. 
 
 [Download my CV]({{ "/files/Katerina_Nikalexi_CV_0126.pdf" | relative_url }})
 
