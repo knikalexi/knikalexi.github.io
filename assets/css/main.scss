@@ -106,13 +106,16 @@ h1, h2, h3 {
   margin-bottom: 1.2rem;
 }
 
+
 .sidebar .author__avatar img {
-  width: 240px !important;   /* ⬅️ controls size */
-  height: 240px !important;  /* ⬅️ MUST match width for a perfect circle */
+  width: 240px !important;
   max-width: 240px !important;
-  border-radius: 50%;        /* ⬅️ makes it round */
-  object-fit: cover;         /* ⬅️ crops nicely */
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+  height: auto !important;
+
+  border-radius: 12px;   /* ⬅️ rectangle with soft corners */
+  object-fit: cover;
+
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.10);
 }
 
 .sidebar .author__avatar img:hover {
