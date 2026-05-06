@@ -1,13 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
 
-/* Choose your colors */
+/* Colors */
 :root {
-  --kn-accent: #0047AB; /* links/buttons */
+  --kn-accent: #0047AB;
   --kn-text: #111;
   --kn-muted: #555;
   --kn-bg: #ffffff;
 }
 
+/* Base */
 body {
   font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   color: var(--kn-text);
@@ -15,14 +16,30 @@ body {
   letter-spacing: 0.01em;
 }
 
-a {
-  color: var(--kn-accent);
-  text-decoration: none;
+/* Links (force override theme) */
+a,
+a:visited {
+  color: #0047AB !important;
 }
+
 a:hover {
+  color: #003380 !important;
   text-decoration: underline;
 }
 
+/* Buttons */
+.btn,
+.btn--primary {
+  background-color: #0047AB !important;
+  border-color: #0047AB !important;
+}
+
+.btn:hover {
+  background-color: #003380 !important;
+}
+
+/* Headings */
 h1, h2, h3 {
+  color: #111;
   letter-spacing: -0.01em;
 }
