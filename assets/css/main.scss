@@ -96,7 +96,7 @@ h1, h2, h3 {
 
 
 .sidebar {
-  width: 280px;   /* increase → bigger photo */
+  width: 300px;   /* increase → bigger photo */
 }
 
 /* avatar */
@@ -107,23 +107,20 @@ h1, h2, h3 {
 }
 
 
-.sidebar .author__avatar img {
-  width: 100% !important;     /* ⬅️ fill the sidebar */
-  height: auto !important;
 
+
+.sidebar .author__avatar img {
+  width: 100% !important;
+  height: auto !important;
   border-radius: 0 !important;
   object-fit: cover;
-
   box-shadow: none !important;
 }
 
-
-
 .sidebar .author__avatar img:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.16);
+  transform: none !important;
+  box-shadow: none !important;
 }
-
 /* research list */
 .archive__item {
   padding: 1rem 0;
