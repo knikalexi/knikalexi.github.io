@@ -111,10 +111,8 @@ h1, h2, h3 {
   width: 240px !important;
   max-width: 240px !important;
   height: auto !important;
-
-  border-radius: 12px;   /* ⬅️ rectangle with soft corners */
+  border-radius: 8px !important;
   object-fit: cover;
-
   box-shadow: 0 10px 28px rgba(0, 0, 0, 0.10);
 }
 
