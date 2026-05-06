@@ -67,6 +67,7 @@ a:hover {
   box-shadow: 0 8px 22px rgba(0,0,0,0.08);
 }
 
+
 /* === smoother, more polished look === */
 
 body {
@@ -166,4 +167,10 @@ hr {
 .author__avatar img:hover {
   transform: translateY(-2px);
   box-shadow: 0 14px 34px rgba(0, 0, 0, 0.16);
+}
+
+.sidebar .author__avatar img {
+  width: 260px !important;
+  max-width: 260px !important;
+  height: auto !important;
 }
