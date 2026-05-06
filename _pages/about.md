@@ -14,5 +14,5 @@ I am a member of the [Next-Geo cohort](https://www.kielinstitut.de/institute/car
 
 Before the PhD, I worked at the European Central Bank. I did my pre-doc at the University of Chicago Booth School of Business. I hold a MSc in Economics from University College London and a BSc in Philosophy, Politics and Economics from the University of Warwick.
 
-Here is my [CV]({{ "/files/Katerina_Nikalexi_CV_0126.pdf" | relative_url }}). You can contact me on knikalexi[at]london[dot].edu.
+Here is my [CV]({{ "/files/Katerina_Nikalexi_CV_0126.pdf" | relative_url }}). You can contact me on <a href="mailto:knikalexi@london.edu">knikalexi[at]london[dot]edu</a>.
 
