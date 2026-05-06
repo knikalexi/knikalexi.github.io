@@ -39,3 +39,27 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import "print";
+
+/* === my custom overrides === */
+a,
+a:visited {
+  color: #0047AB !important;
+}
+
+a:hover {
+  color: #003380 !important;
+}
+
+.btn,
+.btn--primary {
+  background-color: #0047AB !important;
+  border-color: #0047AB !important;
+}
+
+.author__avatar img {
+  width: 210px;
+  max-width: 210px;
+  height: auto;
+}
