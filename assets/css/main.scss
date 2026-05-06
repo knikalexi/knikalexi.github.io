@@ -57,10 +57,14 @@ a:hover {
   border-color: #0047AB !important;
 }
 
+
+
 .author__avatar img {
-  width: 210px;
-  max-width: 210px;
+  width: 260px;        /* ⬅️ increase from ~210 */
+  max-width: 260px;
   height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.08);
 }
 
 /* === smoother, more polished look === */
