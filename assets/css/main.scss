@@ -1,86 +1,127 @@
-/* === custom overrides === */
+---
+---
 
-:root {
-  --kn-blue: #0047AB;
-  --kn-blue-dark: #003380;
-  --kn-text: #1f1f1f;
-  --kn-muted: #555;
-}
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-body {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-  color: var(--kn-text);
-}
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-.page__content {
-  max-width: 720px;
-  line-height: 1.75;
-  font-size: 1.02rem;
-}
+@import "reset";
+@import "base";
 
-.page__content p,
-.page__content li {
-  color: var(--kn-text);
-}
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-h1, h2, h3 {
-  letter-spacing: -0.02em;
-  line-height: 1.15;
-  margin-top: 1.2em;
-  margin-bottom: 0.55em;
-}
+@import "forms";
 
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+/* === my custom overrides === */
+
+/* links */
 a,
 a:visited {
-  color: var(--kn-blue) !important;
+  color: #0047AB !important;
+}
+
+a:hover {
+  color: #003380 !important;
+  opacity: 0.9;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
 
-a:hover {
-  color: var(--kn-blue-dark) !important;
-}
-
+/* buttons */
 .btn,
 .btn--primary {
-  background-color: var(--kn-blue) !important;
-  border-color: var(--kn-blue) !important;
+  background-color: #0047AB !important;
+  border-color: #0047AB !important;
   border-radius: 999px;
   padding: 0.65rem 1rem;
   box-shadow: 0 6px 18px rgba(0, 71, 171, 0.12);
 }
 
 .btn:hover {
-  background-color: var(--kn-blue-dark) !important;
-  border-color: var(--kn-blue-dark) !important;
+  background-color: #003380 !important;
+  border-color: #003380 !important;
 }
 
+/* typography */
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.page__content {
+  max-width: 760px;
+  line-height: 1.75;
+  font-size: 1.02rem;
+}
+
+.page__content p,
+.page__content li {
+  color: #222;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+/* sidebar */
 .sidebar {
   font-size: 0.95rem;
-  width: 240px;
 }
 
-.sidebar .author__avatar {
-  margin: 0 0 1rem 0;
+/* avatar */
+.author__avatar {
   display: flex;
   justify-content: center;
+  margin-bottom: 1.2rem;
 }
 
 .sidebar .author__avatar img {
   width: 230px !important;
   max-width: 230px !important;
-  height: auto !important;
-border-radius: 50%;
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.10);
+  height: 230px !important;
+  border-radius: 50%; /* round */
+  object-fit: cover;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .sidebar .author__avatar img:hover {
   transform: translateY(-2px);
-  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.14);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.16);
 }
 
+/* research list */
 .archive__item {
   padding: 1rem 0;
   border-bottom: 1px solid #eee;
@@ -90,6 +131,7 @@ border-radius: 50%;
   font-size: 1.1rem;
 }
 
+/* separators */
 hr {
   border: 0;
   border-top: 1px solid #e9e9e9;
