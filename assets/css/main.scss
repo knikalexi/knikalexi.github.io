@@ -96,31 +96,31 @@ h1, h2, h3 {
 
 
 .sidebar {
-  width: 300px;   /* increase → bigger photo */
+  width: 320px;   /* increase → bigger photo */
 }
 
-/* avatar */
-.author__avatar {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 1.2rem;
+.sidebar .author__avatar,
+.sidebar .author__avatar img {
+  box-shadow: none !important;
+  filter: none !important;
+  outline: none !important;
 }
-
-
-
 
 .sidebar .author__avatar img {
   width: 100% !important;
   height: auto !important;
   border-radius: 0 !important;
+  border: 0 !important;
   object-fit: cover;
-  box-shadow: none !important;
+  background: transparent !important;
 }
 
 .sidebar .author__avatar img:hover {
   transform: none !important;
   box-shadow: none !important;
+  filter: none !important;
 }
+
 /* research list */
 .archive__item {
   padding: 1rem 0;
@@ -140,4 +140,11 @@ hr {
 
 .layout--single .page {
   grid-column-gap: 1.5rem;
+}
+
+/* center pages without sidebar */
+.layout--single:not(.has-sidebar) .page__content {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
