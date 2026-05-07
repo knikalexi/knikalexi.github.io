@@ -148,3 +148,30 @@ hr {
   margin-left: auto;
   margin-right: auto;
 }
+
+.sidebar {
+  width: 320px !important;
+}
+
+.sidebar .author__avatar,
+.sidebar .author__avatar img {
+  box-shadow: none !important;
+  filter: none !important;
+  background: transparent !important;
+}
+
+.sidebar .author__avatar img {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100% !important;
+  border-radius: 0 !important;
+  border: 0 !important;
+  object-fit: cover;
+  display: block;
+}
+
+.sidebar .author__avatar img:hover {
+  transform: none !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
