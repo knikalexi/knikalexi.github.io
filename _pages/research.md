@@ -1,8 +1,9 @@
 ---
-layout: archive
-author_profile: true
+layout: single
+title: "Research"
 permalink: /research/
-classes: wide
+author_profile: false
+classes: research-page
 ---
 
 **Job Market Paper:**
