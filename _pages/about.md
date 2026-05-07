@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Welcome!
 
 I am a PhD candidate in Economics at London Business School, advised by Hélène Rey and expected to graduate in Spring 2026.  My research interests include **geoeconomics, international macro, trade** and **monetary policy**. 
 
