@@ -6,11 +6,10 @@
  *
  *  - Michael Rose
  *  - mademistakes.com
- *  - https://twitter.com/mmistakes
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -40,7 +39,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* === my custom overrides === */
+/* === CUSTOM OVERRIDES === */
 
 /* links */
 a,
@@ -94,31 +93,39 @@ h1, h2, h3 {
   margin-bottom: 0.6em;
 }
 
+/* SIDEBAR + PHOTO (CLEAN FINAL VERSION) */
 
 .sidebar {
-  width: 320px;   /* increase → bigger photo */
+  width: 320px !important;
 }
 
-.sidebar .author__avatar,
-.sidebar .author__avatar img {
+.sidebar .author__avatar {
+  margin-bottom: 1.2rem;
   box-shadow: none !important;
   filter: none !important;
-  outline: none !important;
+  background: transparent !important;
 }
 
 .sidebar .author__avatar img {
   width: 100% !important;
+  max-width: 100% !important;
   height: auto !important;
-  border-radius: 0 !important;
+
+  border-radius: 0 !important;   /* rectangle */
   border: 0 !important;
+  padding: 0 !important;
+
   object-fit: cover;
+  display: block;
+
+  box-shadow: none !important;   /* remove shadow */
+  filter: none !important;
   background: transparent !important;
 }
 
 .sidebar .author__avatar img:hover {
   transform: none !important;
   box-shadow: none !important;
-  filter: none !important;
 }
 
 /* research list */
@@ -138,40 +145,15 @@ hr {
   margin: 2rem 0;
 }
 
+/* spacing between photo and text */
 .layout--single .page {
   grid-column-gap: 1.5rem;
 }
 
-/* center pages without sidebar */
-.layout--single:not(.has-sidebar) .page__content {
+/* center research page */
+.layout--single.research-page .page__content {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.sidebar {
-  width: 320px !important;
-}
-
-.sidebar .author__avatar,
-.sidebar .author__avatar img {
-  box-shadow: none !important;
-  filter: none !important;
-  background: transparent !important;
-}
-
-.sidebar .author__avatar img {
-  width: 100% !important;
-  height: auto !important;
-  max-width: 100% !important;
-  border-radius: 0 !important;
-  border: 0 !important;
-  object-fit: cover;
-  display: block;
-}
-
-.sidebar .author__avatar img:hover {
-  transform: none !important;
-  box-shadow: none !important;
-  filter: none !important;
+  float: none;
 }
