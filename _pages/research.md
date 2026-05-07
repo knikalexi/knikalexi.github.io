@@ -15,8 +15,6 @@ This paper studies how foreign ownership of maritime infrastructure reshapes inl
 
 ---
 
-**Published / Under Review:**
-
 [**Monetary Policy and Regional Inequality**](/files/MPRI.pdf),  
 with de Groot, Hauptmeier, Holm-Hadulla. ECB Working Paper 2385. R&R at *The Economic Journal*.  
 
@@ -42,7 +40,7 @@ The internationalization of corporate control is a complex and poorly understood
 
 ---
 
-**Working Paper:**
+**Early Stage:**
 
 - *Monetary Policy Transmission through Trade and Infrastructure Networks - Evidence from Strategic Ports in Europe*
 
