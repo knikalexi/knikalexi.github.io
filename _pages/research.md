@@ -2,6 +2,7 @@
 layout: archive
 author_profile: false
 permalink: /research/
+classes: wide
 ---
 
 **Job Market Paper:**
