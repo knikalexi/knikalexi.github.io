@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I am a PhD candidate in Economics at London Business School, advised by Hélène Rey and expected to graduate in Spring 2026.  My research interests include **geoeconomics, international macro, trade** and **monetary policy**. 
+I am a PhD candidate in Economics at London Business School, advised by Hélène Rey and expected to graduate in July 2026.  My research interests include **geoeconomics, international macro, trade** and **monetary policy**. 
 
 I am a member of the [Next-Geo cohort](https://www.kielinstitut.de/institute/career/next-geo-program/), a 2026 [Lamfalussy Fellow](https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html), and a finalist for the [2026 Young Economist Prize](https://www.ecb.europa.eu/press/conferences/ecbforum/YE_competition/html/index.en.html). 
 
