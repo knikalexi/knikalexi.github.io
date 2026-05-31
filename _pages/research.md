@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 
-**Job Market Paper:**
+[**Job Market Paper:**(https://drive.google.com/file/d/1713SVZYxVORRwxqHDC6wkbTL1O8fZbR9/view)]
 
-This paper studies how foreign ownership of maritime infrastructure reshapes inland trade networks. I combine hand-collected data on Chinese state-backed acquisitions of European ports with 1.5 million truck-level shipments linking 368 NUTS2 regions between 2011 and 2022. Using a continuous-treatment event study à la De Chaisemartin and D’Haultfoeuille (2024) that exploits the policy-driven and externally timed rollout of China’s Maritime Silk Road, I estimate effects relative to exposure: higher-exposed regions contract more than lower-exposed ones in the same years. A rise in exposure is associated with a 20–30 % relative decline in road-freight volumes and a 4–5 % relative increase in trade-partner concentration. The results point to a reconfiguration of trade corridors rather than a uniform collapse, consistent with a reallocation of containerized and re-export traffic within integrated logistics networks. This pattern reveals how ownership shocks propagate inland through Europe’s trade routes.
+This paper studies how foreign ownership of maritime infrastructure reshapes inland trade networks. I combine hand-collected data on Chinese state-backed acquisitions of European ports with 1.5 million truck-level shipments linking 331 NUTS2 regions between 2011 and 2022. Using a continuous-treatment event study à la De Chaisemartin and D’Haultfoeuille (2024) that exploits the policy-driven and externally timed rollout of China’s Maritime Silk Road, I estimate effects relative to exposure: higher-exposed regions contract more than lower-exposed ones in the same years. A rise in exposure is associated with a 20–30 % relative decline in road-freight volumes and a 4–5 % relative increase in trade-partner concentration. The results point to a reconfiguration of trade corridors rather than a uniform collapse, consistent with a reallocation of containerized and re-export traffic within integrated logistics networks. This pattern reveals how ownership shocks propagate inland through Europe’s trade routes.
 
 <sub>*Presented at: 23rd Conference on Research in Economic Theory & Economics, LBS, Carlos III, Aix-Marseille, U. of Piraeus, Sveriges Riksbank, OECD, European Central Bank, IE University*
 
