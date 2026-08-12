@@ -1,11 +1,16 @@
 ---
-layout: archive
+layout: single
 permalink: /research/
 author_profile: false
 ---
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
   <img src="/images/research2.png"
+       style="width:50%; border-radius:8px; object-fit:cover;">
+</div>
+
+<div style="display:flex; gap:15px; margin-bottom:30px;">
+  <img src="/images/lagarde"
        style="width:50%; border-radius:8px; object-fit:cover;">
 </div>
 
