@@ -2,6 +2,8 @@
 layout: single
 permalink: /research/
 author_profile: false
+classes: wide
+
 ---
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
