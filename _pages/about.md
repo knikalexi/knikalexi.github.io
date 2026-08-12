@@ -22,3 +22,8 @@ Previous papers include [Monetary Policy and Regional Inequality](/files/MPRI.pd
 
 Here is my [CV]({{ "/files/Katerina_Nikalexi_CV_0126.pdf" | relative_url }}). You can contact me on <a href="mailto:knikalexi@london.edu">knikalexi[at]london[dot]edu</a>.
 
+<div style="display:flex; gap:15px; margin-bottom:30px;">
+<img src="/images/research2.png"
+style="width:85%; border-radius:8px; object-fit:cover;">
+</div>
+
