@@ -1,19 +1,19 @@
 ---
 layout: archive
 permalink: /research/
-author_profile: false
-classes: wide
+author_profile: true
 
 ---
+<div style="max-width:1000px; margin:0 auto 50px auto; display:flex; gap:24px; align-items:center;">
 
-<div style="display:flex; gap:15px; margin-bottom:30px;">
   <img src="/images/research2.png"
-       style="width:50%; border-radius:8px; object-fit:cover;">
-</div>
+       alt="Research"
+       style="width:50%; height:300px; object-fit:cover; border-radius:12px;">
 
-<div style="display:flex; gap:15px; margin-bottom:30px;">
   <img src="/images/lagarde.png"
-       style="width:50%; border-radius:8px; object-fit:cover;">
+       alt="European Central Bank"
+       style="width:50%; height:300px; object-fit:cover; border-radius:12px;">
+
 </div>
 
 [**Ports of Power**](https://drive.google.com/file/d/1713SVZYxVORRwxqHDC6wkbTL1O8fZbR9/view)
