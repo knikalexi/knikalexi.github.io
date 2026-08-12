@@ -145,17 +145,22 @@ hr {
   margin: 2rem 0;
 }
 
-/* spacing between photo and text */
-.layout--single .page {
-  grid-column-gap: 1.5rem;
+/* full-width research page */
+.layout--single .page__content {
+  max-width: none !important;
+  width: 100% !important;
+  float: none !important;
 }
 
-/* center research page */
-.layout--single.research-page .page__content {
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  float: none;
+@media screen and (min-width: 1024px) {
+  .layout--single .page {
+    display: block !important;
+  }
+
+  .layout--single .page__content {
+    max-width: none !important;
+    width: 100% !important;
+  }
 }
 
 .author__name {
