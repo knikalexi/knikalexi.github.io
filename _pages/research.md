@@ -13,7 +13,7 @@ This paper studies how foreign ownership of maritime infrastructure reshapes inl
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
 <img src="/images/lagarde.png"
-style="width:50%; border-radius:8px; object-fit:cover;">
+style="width:70%; border-radius:8px; object-fit:cover;">
 </div>
 
 ---
@@ -53,21 +53,21 @@ The internationalization of corporate control is a complex and poorly understood
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
 <img src="/images/research2.png"
-style="width:50%; border-radius:8px; object-fit:cover;">
+style="width:70%; border-radius:8px; object-fit:cover;">
 </div>
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
-<img src="/images/lagarde.png"
-style="width:50%; border-radius:8px; object-fit:cover;">
+<img src="/images/me.png"
+style="width:70%; border-radius:8px; object-fit:cover;">
 </div>
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
   <img src="/images/group photo.jpg"
-       style="width:50%; border-radius:8px; object-fit:cover;">
+       style="width:70%; border-radius:8px; object-fit:cover;">
 </div>
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
   <img src="/images/forum.png"
-       style="width:50%; border-radius:8px; object-fit:cover;">
+       style="width:70%; border-radius:8px; object-fit:cover;">
 </div>
 
