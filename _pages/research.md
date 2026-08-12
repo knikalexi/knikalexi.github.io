@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
