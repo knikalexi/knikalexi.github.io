@@ -12,8 +12,13 @@ This paper studies how foreign ownership of maritime infrastructure reshapes inl
 <sub>*Presented at: 23rd Conference on Research in Economic Theory & Economics, LBS, Carlos III, Aix-Marseille, U. of Piraeus, Sveriges Riksbank, OECD, European Central Bank, IE University, ECB Forum on Central Banking (Sintra) 2026*
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
+<img src="/images/research2.png"
+style="width:85%; border-radius:8px; object-fit:cover;">
+</div>
+
+<div style="display:flex; gap:15px; margin-bottom:30px;">
 <img src="/images/lagarde.png"
-style="width:70%; border-radius:8px; object-fit:cover;">
+style="width:85%; border-radius:8px; object-fit:cover;">
 </div>
 
 ---
@@ -52,22 +57,17 @@ The internationalization of corporate control is a complex and poorly understood
 **Sintra 2026:**
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
-<img src="/images/research2.png"
-style="width:70%; border-radius:8px; object-fit:cover;">
-</div>
-
-<div style="display:flex; gap:15px; margin-bottom:30px;">
 <img src="/images/me.png"
-style="width:70%; border-radius:8px; object-fit:cover;">
+style="width:80%; border-radius:8px; object-fit:cover;">
 </div>
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
   <img src="/images/group photo.jpg"
-       style="width:70%; border-radius:8px; object-fit:cover;">
+       style="width:80%; border-radius:8px; object-fit:cover;">
 </div>
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
   <img src="/images/forum.png"
-       style="width:70%; border-radius:8px; object-fit:cover;">
+       style="width:80%; border-radius:8px; object-fit:cover;">
 </div>
 
