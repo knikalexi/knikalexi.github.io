@@ -4,6 +4,10 @@ permalink: /research/
 author_profile: true
 ---
 
+<div style="display:flex; gap:15px; margin-bottom:30px;">
+  <img src="/images/research2.jpg"
+       style="width:50%; border-radius:8px; object-fit:cover;">
+</div>
 
 [**Ports of Power**](https://drive.google.com/file/d/1713SVZYxVORRwxqHDC6wkbTL1O8fZbR9/view)
 
