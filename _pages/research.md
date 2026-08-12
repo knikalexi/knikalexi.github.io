@@ -9,7 +9,12 @@ author_profile: true
 
 This paper studies how foreign ownership of maritime infrastructure reshapes inland trade networks. I combine hand-collected data on Chinese state-backed acquisitions of European ports with 1.5 million truck-level shipments linking 331 NUTS2 European regions between 2011 and 2022. Using a continuous-treatment event study that leverages the policy-driven and externally timed rollout of China’s Maritime Silk Road, I estimate heterogeneous effects across European regions based on their baseline port reliance. Regions more exposed to Chinese port acquisitions experience relatively larger contractions in trade along both the intensive and extensive margins. The results reveal a reconfiguration of trade corridors, consistent with a shift toward containerized transport within existing industrial structures. From a policy perspective, the results speak directly to Europe’s strategic concerns in the governance of critical trade infrastructure.
 
-<sub>*Presented at: 23rd Conference on Research in Economic Theory & Economics, LBS, Carlos III, Aix-Marseille, U. of Piraeus, Sveriges Riksbank, OECD, European Central Bank, IE University*
+<sub>*Presented at: 23rd Conference on Research in Economic Theory & Economics, LBS, Carlos III, Aix-Marseille, U. of Piraeus, Sveriges Riksbank, OECD, European Central Bank, IE University, ECB Forum on Central Banking (Sintra) 2026*
+
+<div style="display:flex; gap:15px; margin-bottom:30px;">
+<img src="/images/lagarde.png"
+style="width:50%; border-radius:8px; object-fit:cover;">
+</div>
 
 ---
 
@@ -41,6 +46,8 @@ The internationalization of corporate control is a complex and poorly understood
 **Early Stage:**
 
 - *Monetary Policy Transmission through Trade and Infrastructure Networks - Evidence from Strategic Ports in Europe*
+
+---
 
 **Sintra 2026:**
 
