@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV]({{ "/files/Katerina_Nikalexi_CV_0126.pdf" | relative_url }})
+[CV]({{ "/files/Katerina_CV_2308.pdf" | relative_url }})
