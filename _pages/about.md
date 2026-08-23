@@ -20,7 +20,7 @@ Before the PhD, I worked at the European Central Bank. I did my pre-doc at the U
 
 Previous papers include [Monetary Policy and Regional Inequality](/files/MPRI.pdf) (R&R on _The Economic Journal_) and [The Globalization of Corporate Control](/files/globalization.pdf) (_Journal of International Economics_).
 
-Here is my [CV]({{ "/files/Katerina_Nikalexi_CV_0126.pdf" | relative_url }}). You can contact me on <a href="mailto:knikalexi@london.edu">knikalexi[at]london[dot]edu</a>.
+Here is my [CV]({{ "/files/Katerina_CV_2308.pdf" | relative_url }}). You can contact me on <a href="mailto:knikalexi@london.edu">knikalexi[at]london[dot]edu</a>.
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
 <img src="/images/research2.png"
