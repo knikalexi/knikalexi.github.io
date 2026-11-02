@@ -38,7 +38,7 @@ The internationalization of corporate control is a complex and poorly understood
 
 **Early Stage:**
 
-- *Monetary Policy Transmission through Trade and Infrastructure Networks - Evidence from Strategic Ports in Europe*
+- *Monetary policy trransmission through trade and infrastructure networks: evidence from strategic ports in Europe*
 - *Barrels in reserve: China's oil inventories and Hormuz* 
 
 ---
