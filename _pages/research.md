@@ -36,6 +36,13 @@ The internationalization of corporate control is a complex and poorly understood
 
 ---
 
+**Early Stage:**
+
+- *Monetary Policy Transmission through Trade and Infrastructure Networks - Evidence from Strategic Ports in Europe*
+- *Barrels in reserve: China's oil inventories and Hormuz* 
+
+---
+
 **Policy Writing:**
 
 - *Monetary Policy and Inequality* (with Hauptmeier & Holm-Hadulla). **ECB Economic Bulletin**, Issue 2, 2021.  
@@ -43,11 +50,6 @@ The internationalization of corporate control is a complex and poorly understood
 
 ---
 
-**Early Stage:**
-
-- *Monetary Policy Transmission through Trade and Infrastructure Networks - Evidence from Strategic Ports in Europe*
-
----
 
 **Sintra 2026:**
 
