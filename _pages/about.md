@@ -18,8 +18,6 @@ My job market paper is [Ports of Power](https://drive.google.com/file/d/1713SVZY
 
 Before the PhD, I worked at the European Central Bank. I did my pre-doc at the University of Chicago Booth School of Business. I hold a MSc in Economics from University College London and a BSc in Philosophy, Politics and Economics from the University of Warwick.
 
-Previous papers include [Monetary Policy and Regional Inequality](/files/MPRI.pdf) (R&R on _The Economic Journal_) and [The Globalization of Corporate Control](/files/globalization.pdf) (_Journal of International Economics_). 
-
 Previous papers include [Monetary Policy and Regional Inequality](https://knikalexi.github.io/files/MPRI.pdf) (R&R on The Economic Journal) and [The Globalization of Corporate Control](https://knikalexi.github.io/files/globalization.pdf) (Journal of International Economics).
 
 Building on *Ports of Power*, I am developing early-stage work on the physical interface of economic power, studying maritime infrastructure and monetary policy, and strategic oil reserves as an instrument of economic statecraft.
