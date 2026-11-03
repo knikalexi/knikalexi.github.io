@@ -43,14 +43,6 @@ The internationalization of corporate control is a complex and poorly understood
 
 ---
 
-**Policy Writing:**
-
-- *Monetary Policy and Inequality* (with Hauptmeier & Holm-Hadulla). **ECB Economic Bulletin**, Issue 2, 2021.  
-- *How to Lower Student Loan Defaults: Simplify Enrollment in Income-Driven Repayment Plans* (with Yannelis). **Manhattan Institute Policy Report**, 2019.
-
----
-
-
 **Sintra 2026:**
 
 <div style="display:flex; gap:15px; margin-bottom:30px;">
@@ -67,4 +59,9 @@ style="width:80%; border-radius:8px; object-fit:cover;">
   <img src="/images/forum.png"
        style="width:80%; border-radius:8px; object-fit:cover;">
 </div>
+
+**Policy Writing:**
+
+- *Monetary Policy and Inequality* (with Hauptmeier & Holm-Hadulla). **ECB Economic Bulletin**, Issue 2, 2021.  
+- *How to Lower Student Loan Defaults: Simplify Enrollment in Income-Driven Repayment Plans* (with Yannelis). **Manhattan Institute Policy Report**, 2019.
 
