@@ -12,7 +12,7 @@ Welcome!
 
 I completed my PhD in Economics at London Business School under the supervision of Hélène Rey in July 2026.  My research interests include **geoeconomics, international macro, trade** and **monetary policy**. 
 
-I am a member of the [Next-Geo cohort](https://www.kielinstitut.de/institute/career/next-geo-program/) and a 2026 [Lamfalussy Fellow](https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html) for the European Central Bank. I was a finalist for the [2026 Young Economist Prize](https://www.ecb.europa.eu/press/conferences/ecbforum/YE_competition/html/index.en.html).
+I am a member of the [Next-Geo cohort](https://www.kielinstitut.de/institute/career/next-geo-program/) and a 2026/27 [Lamfalussy Fellow](https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html) for the European Central Bank. I was a finalist for the [2026 Young Economist Prize](https://www.ecb.europa.eu/press/conferences/ecbforum/YE_competition/html/index.en.html).
 
 My job market paper is [Ports of Power](https://drive.google.com/file/d/1713SVZYxVORRwxqHDC6wkbTL1O8fZbR9/view). I study the acquisitions of European port terminals by Chinese state-owned companies and their effect on the European trade network.
 
