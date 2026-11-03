@@ -22,9 +22,7 @@ Previous papers include [Monetary Policy and Regional Inequality](/files/MPRI.pd
 
 Previous papers include [Monetary Policy and Regional Inequality](https://knikalexi.github.io/files/MPRI.pdf) (R&R on The Economic Journal) and [The Globalization of Corporate Control](https://knikalexi.github.io/files/globalization.pdf) (Journal of International Economics).
 
-Building on *Ports of Power*, I am developing early-stage work on the physical interface of economic power: how control over logistics networks shapes countries' resilience and exposure to coercion. One strand studies maritime infrastructure and monetary policy, asking whether *who* invests in, owns, and operates the ports and shipping networks that underpin trade matters for how monetary policy is transmitted. A second strand studies strategic oil reserves as an instrument of economic statecraft: how stockpiles shape states' bargaining power, exposure to supply coercion, and ability to deter or absorb energy shocks.
-
-Here is my [CV](https://knikalexi.github.io/files/Katerina_CV_2308.pdf). You can contact me on [knikalexi[at]london[dot]edu](mailto:knikalexi@london.edu).
+Building on *Ports of Power*, I am developing early-stage work on the physical interface of economic power, studying maritime infrastructure and monetary policy, and strategic oil reserves as an instrument of economic statecraft.
 
 Here is my [CV]({{ "/files/Katerina_CV_2308.pdf" | relative_url }}). You can contact me on <a href="mailto:knikalexi@london.edu">knikalexi[at]london[dot]edu</a>.
 
